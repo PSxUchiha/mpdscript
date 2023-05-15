@@ -22,7 +22,7 @@ sudo rm /etc/mpd.conf
 
 mkdir -p ~/.config/mpd
 
-cp /usr/share/doc/mpd/mpdconf.example ~/.config/mpd/mpd.conf
+cp mpdconf.example ~/.config/mpd/mpd.conf
 
 #exit 1
 
